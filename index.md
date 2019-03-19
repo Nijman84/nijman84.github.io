@@ -1,4 +1,4 @@
-# Hello from NealyCorp:tm:
+# Hello from NealyCorp
 
 Here is a link to [another page](./docs/test.md)
 
