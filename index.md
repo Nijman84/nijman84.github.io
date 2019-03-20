@@ -1,3 +1,4 @@
+<a name="topIndex"></a>
 # Hello from NealyCorp
 
 Here is a link to [another page](./docs/test.md)
@@ -20,5 +21,4 @@ echo this is the 2nd line of the block of code
 
 `this is an inline code quote`
 
-
-# [home](../index.md)
+# [home](#topIndex)
