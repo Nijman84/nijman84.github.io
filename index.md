@@ -1,24 +1,15 @@
 <a name="topIndex"></a>
-# Hello from NealyCorp
-
-Here is a link to [another page](./docs/test.md)
-
-## Pals
-
-Here is my friend's site:
-[James Waterhouse 15th Duke of Bradford](https://www.jameswaterhouse.net)
+# Welcome to NealyCorp
 
 ## Nealy As A CAT (NAAC)
 *Here is an image of Neal if he were a cat:*
 
 ![alt text](./images/jimmie.jpeg "Neal As A Cat")
 
-## Random stuff to test out the power of Markdown
-```sh
-echo this is a block of code
-echo this is the 2nd line of the block of code
-```
+## Pals
 
-`this is an inline code quote`
+Here is my friend's site:
+[James Waterhouse 15th Duke of Bradford](https://www.jameswaterhouse.net)
 
-# [home](#topIndex)
+
+# [home](#topIndex) | [test page](./docs/test.md)
