@@ -4,6 +4,7 @@
 
 ## Nealy As A CAT (NAAC)
 *Here is an image of Neal if he were a cat:*
+
 ![alt text](./images/jimmie.jpeg "Neal As A Cat")
 
 ## Pals
