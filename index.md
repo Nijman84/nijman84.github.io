@@ -8,7 +8,7 @@
 ![alt text](./images/jimmie.jpeg "Neal As A Cat")
 
 ## Pals
-Here is my friends' sites:
+Here are my friends' sites:
 <br>
 ### [Darrell Taylor, Chesterfield's First Human Pub](http://www.darrelltaylor.com/)
 ### [James Waterhouse 15th Duke of Bradford](https://www.jameswaterhouse.net)
