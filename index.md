@@ -9,8 +9,10 @@
 
 ## Pals
 
-Here is my friend's site:
-[James Waterhouse 15th Duke of Bradford](https://www.jameswaterhouse.net)
-
+Here is my friends' sites:
+<br>
+### [James Waterhouse 15th Duke of Bradford](https://www.jameswaterhouse.net)
+### [Doctor Edward DJ Berry, Pride of Skipton](https://www.eddjberry.com/)
+### [Scotty Too Hotty Clay King of Cleckheaton](https://www.scottclay.dev)
 
 # [home](#topIndex) | [test page](./docs/test.md)
